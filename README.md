@@ -1,4 +1,4 @@
-# Decentralized Todo List DApp
+# Decentralized Voting DApp
 
 A blockchain-based todo list application where tasks are stored permanently on the blockchain. Built with Hardhat, Solidity, and Ethers.js.
 
